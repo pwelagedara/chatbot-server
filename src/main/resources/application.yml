@@ -1,0 +1,19 @@
+facebook:
+  send-message:
+    api-url: https://graph.facebook.com/v2.6/me/messages
+  webhook:
+    setup: false
+    token-length: 96
+  page:
+    token: EAAWnsll8IYwBABTOTqzZAeZAJzIiKfSfauLOZCjcHbWBxZCTFrIfD6egVivwHcu4PZBCOFHgMOfPG1RsDiVJhdfz6ZC6gzuNnyhds5XBy8gta9fKKb4YYj6RuvQMw8t4wxz6IJ250Yor7xj5pL3ssLUcSyZCl79LEaZArOXiSRdJiUsy09kyQxJSKJVEFEeVd2kZD
+
+apifest:
+  host: https://nginx0.pncapix.com
+  app-token: 2d500cbe-a053-3f6f-bf73-27fc2e5a1a79
+  current-date: 2017-05-05T18:58:42.891Z
+
+chatbot:
+  image-url:
+    account: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQerKdVaYkr37K4FoxykZcSsETJTugVMHnNlcSn4hiZmD2hnydl2g
+    accept: http://www.freeiconspng.com/uploads/check-yes-ok-icon-10.png
+    deny: https://cdn2.iconfinder.com/data/icons/perfect-flat-icons-2/512/Cancel_delete_remove_stop_x_no_close_cross.png

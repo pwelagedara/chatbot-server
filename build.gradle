@@ -1,0 +1,16 @@
+plugins{
+    id 'org.springframework.boot' version '1.5.6.RELEASE'
+}
+
+group 'com.pnc.microservices.openapi'
+version '1.0.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    compile 'org.springframework.boot:spring-boot-starter-security'
+}
